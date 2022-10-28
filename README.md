@@ -9,4 +9,3 @@ Full Screen:
 
 ![12](https://user-images.githubusercontent.com/75973334/198739484-94290e18-beb6-48f3-86c2-fc937de0477f.jpg)
 
-![14](https://user-images.githubusercontent.com/75973334/198739526-ea216e6d-402e-4e74-8c62-bb061fe09b5b.jpg)
