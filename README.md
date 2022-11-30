@@ -1,5 +1,5 @@
 # test-task-layout
-Тестовое задание на верстку
+Одностраничник POLARIS
 
 https://svetlana0905.github.io/test-task-layout/
 
