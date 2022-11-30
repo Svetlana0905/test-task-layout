@@ -1,5 +1,5 @@
 # test-task-layout
-Одностраничник POLARIS
+Одностраничник POLAIR
 
 https://svetlana0905.github.io/test-task-layout/
 
